@@ -5,10 +5,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+     border-radius: 5px;
 }
 .footer{
     color: white;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 section{
     background-color: white;
